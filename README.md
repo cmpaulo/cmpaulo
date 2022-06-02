@@ -26,7 +26,7 @@
 <a href="https://twitter.com/cmp0484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cmp0484" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/claudio-paulo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="claudio-paulo" height="30" width="40" /></a>
 <a href="https://kaggle.com/laudiomachadopaulo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="laudiomachadopaulo" height="30" width="40" /></a>
-<a href="https://instagram.com/@addoclaudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@addoclaudio" height="30" width="40" /></a>
+<a href="https://instagram.com/addoclaudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@addoclaudio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
