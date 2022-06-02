@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudio Machado Paulo</h1>
-<h3 align="center">Cientista de dados</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmpaulo&label=Profile%20views&color=0e75b6&style=flat" alt="cmpaulo" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/claudio-machado-paulo-1866a2146/](https://www.linkedin.com/in/claudio-machado-paulo-1866a2146/)
 
-- ⚡ Fun fact **Bicicletas são meu passa-tempo favorito**
+- ⚡ Fun fact **Cycling and internet of things are my hobbies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
